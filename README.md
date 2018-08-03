@@ -45,7 +45,9 @@ Please mail your report to bounty@everdreamsoft.com
 
 ## Important information
 YummyCore : TBA
+
 SaleAuction : TBA
+
 BreedingAuction : TBA
 
 ## FAQ
