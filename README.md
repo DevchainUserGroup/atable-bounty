@@ -35,11 +35,11 @@ The value of rewards will be determined depending on the severity of the submitt
 1 point corresponds to X USD (paid half in ETH and half in BCY) (X to be announced shortly)
 
 ## How to make a good vulnerability report:
-* Description : Describe the expected result and the encountered result
-* Steps to reproduce : Describe the sequential steps to reproduce the vulnerability with as much details as possible.
-* Impact : The result of the vulnerability, what / who is affected.
-* Supporting material / references : List any additional material (screenshots, logs, tx hashes, accounts used). If possible, provide a Truffle test.
-* Fix : What would you do to fix it?
+* **Description** : Describe the expected result and the encountered result
+* **Steps to reproduce** : Describe the sequential steps to reproduce the vulnerability with as much details as possible.
+* **Impact** : The result of the vulnerability, what / who is affected.
+* **Supporting material / references** : List any additional material (screenshots, logs, tx hashes, accounts used). If possible, provide a Truffle test.
+* **Fix** : What would you do to fix it?
 
 Please mail your report to bounty@everdreamsoft.com
 
@@ -51,7 +51,7 @@ SaleAuction : TBA
 BreedingAuction : TBA
 
 ## FAQ
-* Will the code change during the bounty program ?
+* **Will the code change during the bounty program ?**
   * The code will most likely change during the program. As issues are reported by the community we will update the code as soon as possible. Make sure the vulnerabilities you report are related to the latest published version of the code.
-* How are the bounties paid out?
+* **How are the bounties paid out?**
   * Rewards are paid half in BitCrystals (BCY) and half in ETH. Please provide both your ETH and BCY compatible (Counterparty compatible) addresses.
