@@ -1,4 +1,4 @@
-# Smart contract bug bounty program
+# à table! bug bounty program
 
 Dear fellow developers and blockchain enthusiasts,
 
