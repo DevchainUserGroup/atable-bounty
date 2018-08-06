@@ -21,6 +21,7 @@ All the contract code will be publicly available on-chain, and we would like you
 ## Rules and rewards
 * Issues that have already been submitted by another user or are already known to the à table! team are not eligible for bounty rewards.
 * Any website related to à table or EverdreamSoft are not part of the bug bounty program.
+* We are aware that some values need tweaking, issues related only to contract efficiency will not be eligible.
 * We will consider many variables when evaluating a submitted vulnerability. Determination of eligibility and rewards are at the sole discretion of EverdreamSoft
 
 ![alt text](https://i.imgur.com/SUCHcsA.png "Bug severity matrice")
