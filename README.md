@@ -7,8 +7,7 @@ In preparation of the launch of our new game called “à table!”, we would li
 ## What you should know
 * à table! is a game centered around collectible and combinable creatures represented by Ethereum tokens.
 * Yummies - our  creatures - are Ethereum ERC721 non-fungible tokens
-* The tokens can be transferred, auctioned and bred
-* Two tokens can be combined to create a new one.
+* The tokens can be transferred, auctioned and bred together
 
 ## Scope of this bug bounty program
 This bounty program will run on the Ropsten network from the beginning of August 2018 until the end of August 2018.
