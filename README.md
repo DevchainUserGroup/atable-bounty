@@ -32,7 +32,7 @@ The value of rewards will be determined depending on the severity of the submitt
 * Low: up to 125 points
 * Note: up to 50 points
 
-1 point corresponds to X USD (paid half in ETH and half in BCY) (X to be announced shortly)
+1 point corresponds to 1 USD (paid half in ETH and half in BCY)
 
 ## How to make a good vulnerability report:
 * **Description** : Describe the expected result and the encountered result
