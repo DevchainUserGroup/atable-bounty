@@ -13,7 +13,7 @@ In preparation of the launch of our new game called “à table!”, we would li
 ## Scope of this bug bounty program
 This bounty program will run on the Ropsten network from the beginning of August 2018 until the end of August 2018.
 All the contract code will be publicly available on-chain, and we would like you to help us find vulnerabilities and possible incorrect usage of contract mechanics such as :
-* breaking an aspect of the game (auctioning, combining, etc)
+* breaking an aspect of the game (auctioning, breeding, etc)
 * steal a token from someone else
 * act as a contract administrator (destroy or pause the contract, etc)
 * any other sort of incorrect usage of the contract
