@@ -45,6 +45,8 @@ The value of rewards will be determined depending on the severity of the submitt
 Please mail your report to bounty@everdreamsoft.com
 
 ## Important information
+
+### Contract addresses
 YummyCore : TBA
 
 SaleAuction : TBA
