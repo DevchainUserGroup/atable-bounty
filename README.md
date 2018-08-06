@@ -47,7 +47,7 @@ Please mail your report to bounty@everdreamsoft.com
 ## Important information
 
 ### Contract addresses
-Core contract : TBA
+Core contract : 0x884a09321AC966e0a923494bEAD1D8eEabed2da0
 
 Sale auctions contract : TBA
 
