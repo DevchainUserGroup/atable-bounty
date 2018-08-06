@@ -47,11 +47,11 @@ Please mail your report to bounty@everdreamsoft.com
 ## Important information
 
 ### Contract addresses
-YummyCore : TBA
+Core contract : TBA
 
-SaleAuction : TBA
+Sale auctions contract : TBA
 
-BreedingAuction : TBA
+Breeding auctions contract : TBA
 
 ## FAQ
 * **Will the code change during the bounty program ?**
