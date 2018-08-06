@@ -49,9 +49,9 @@ Please mail your report to bounty@everdreamsoft.com
 ### Contract addresses
 Core contract : 0x884a09321AC966e0a923494bEAD1D8eEabed2da0
 
-Sale auctions contract : TBA
+Sale auctions contract : 0x281754efC30283b4a7244Eb258C2653142B31099
 
-Breeding auctions contract : TBA
+Breeding auctions contract : 0x2AAE51Df7DA23961c1b9Cb5bEA2eb1583b12D6B0
 
 ## FAQ
 * **Will the code change during the bounty program ?**
